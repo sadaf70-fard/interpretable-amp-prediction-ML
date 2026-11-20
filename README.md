@@ -6,7 +6,7 @@ Six classifiers (logistic regression, SVM, random forest, gradient-boosted trees
 
 ## Contribution note
 
-The initial version of this pipeline — the feature-extraction module and the first implementations of the classifiers — was developed by **Suyash Sanjay Gaikwad** as part of his MSc dissertation at the University of Surrey. The present repository extends that work with sequence de-duplication, alignment-based homology clustering and identity-aware splitting, repeated-seed and bootstrap uncertainty estimates, feature and resampling ablations, threshold and calibration analysis, and external validation on AMPBenchmark.
+The initial version of this pipeline — the feature-extraction module and the first implementations of the classifiers — was developed by **Suyash Sanjay Gaikwad**. The present repository extends that work with sequence de-duplication, alignment-based homology clustering and identity-aware splitting, repeated-seed and bootstrap uncertainty estimates, feature and resampling ablations, threshold and calibration analysis, and external validation on AMPBenchmark.
 
 ## Repository contents
 
